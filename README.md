@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaoVictor-afk
+- 👋 Hi, I’m @JoaoVictor-afk.
 - 👀 I'm interested in become a Full Stack Developer.
 - 🌱 I’m currently learning JavaScript, Node.js, reactJS, React Native.
  
